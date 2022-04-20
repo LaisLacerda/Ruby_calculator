@@ -14,7 +14,7 @@ def divisao(primeiro_numero, segundo_numero)
   if segundo_numero != 0
     primeiro_numero / segundo_numero
   else
-    'Opa! Zero como divisor'
+    'Opa! Zero como divisor.'
   end 
 end
 
