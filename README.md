@@ -12,8 +12,5 @@ Na sua tela deve aparecer uma série de alertas de falhas. Cada um deles possui 
 
 Lembre-se que não é necessário utilizar `puts` para retornar um valor pois o teste se encarrega disso executando o retorno do método.
 
-O vídeo acima mostra o fluxo de utilizações de testes com `rspec`.# Ruby_Code
-# Ruby_Code
-# Ruby_codes
-# Ruby_codes
-# Ruby_codes
+
+
